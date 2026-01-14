@@ -1,8 +1,6 @@
-#About Me:
 Hello! I'm Nikhil  <br><br>A Python fresher passionate about learning software development.  <br>Practicing Python daily, exploring OOP, and building beginner-friendly projects.  <br>Goal: Become a confident Python developer.
 
 [![](https://visitcount.itsvg.in/api?id=nspawar-code&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
