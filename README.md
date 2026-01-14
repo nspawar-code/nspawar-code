@@ -1,4 +1,4 @@
-Hello! I'm Nikhil  <br><br>A Python fresher passionate about learning software development.  <br>Practicing Python daily, exploring OOP, and building beginner-friendly projects.  <br>Goal: Become a confident Python developer.
+Hello! I'm Nikhil  <br><br>A Python fresher passionate about learning software development.  <br>Practicing Python daily, exploring OOP, and building beginner-friendly projects.  <br>Goal: Become a confident Python developer. <br>Linkdin : https://www.linkedin.com/in/nikhil-s-pawar-3b9a6027b/ <br>Email : nikhilspawar733@gmail.com
 
 [![](https://visitcount.itsvg.in/api?id=nspawar-code&icon=0&color=0)](https://visitcount.itsvg.in)
 
